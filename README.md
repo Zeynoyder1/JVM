@@ -20,5 +20,4 @@ This repository contains a minimal Java Virtual Machine (JVM) that I implemented
   - Loads a class, finds `main`, and interprets bytecode instructions.  
   - Implements operand stack, local variables, and constant pool resolution.
 
-## 📁 Project Structure
 
